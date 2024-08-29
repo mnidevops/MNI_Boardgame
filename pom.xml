@@ -119,12 +119,12 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://43.205.118.230:8081/repository/maven-releases/</url>
+            <id>boardgane-release</id>
+            <url>http://3.110.148.64:8081/repository/boardgane-release/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
-            <url>http://43.205.118.230:8081/repository/maven-snapshots/</url>
+            <id>boardgame-snapshots</id>
+            <url>http://3.110.148.64:8081/repository/boardgame-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
