@@ -120,11 +120,11 @@
 	 <distributionManagement>
         <repository>
             <id>boardgame-release</id>
-            <url>http://3.110.148.64:8081/repository/boardgame-release/</url>
+            <url>http://3.111.218.169:8081/repository/boardgame-release/</url>
         </repository>
         <snapshotRepository>
             <id>boardgame-snapshots</id>
-            <url>http://3.110.148.64:8081/repository/boardgame-snapshots/</url>
+            <url>http://3.111.218.169:8081/repository/boardgame-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
