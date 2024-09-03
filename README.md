@@ -60,21 +60,21 @@ This web application displays lists of board games and their reviews. While anyo
 ## End-to-end CICD deployment of the application.
 
 Phase 1:
-	• Network setup (Private, Secure, Isolated network)
-	• Kubernetes cluster setup (Deploy application, scan cluster for vulnerabilities)
-	• Create instances (SonarQube, Nexus, Jenkins, Monitoring tools)
+• Network setup (Private, Secure, Isolated network)
+• Kubernetes cluster setup (Deploy application, scan cluster for vulnerabilities)
+• Create instances (SonarQube, Nexus, Jenkins, Monitoring tools)
 	
 Phase 2:
-	• Create GIT repo (private)
-	• Push our source code to this repository
-	• Check if the code is visible in the repository
+• Create GIT repo (private)
+• Push our source code to this repository
+• Check if the code is visible in the repository
 
 Phase 3:
-	• Create a CICD pipeline
-	• Ensure best practices
-	• Ensure all security measures
-	• Deployment of application on k8s cluster
-	• Mail notification (Success/Failure)
+• Create a CICD pipeline
+• Ensure best practices
+• Ensure all security measures
+• Deployment of application on k8s cluster
+• Mail notification (Success/Failure)
 	
 ### EC2 Instances Required:
 
